@@ -1,1 +1,1 @@
-# kz-blog
+# A new starter

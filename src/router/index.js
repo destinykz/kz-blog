@@ -7,8 +7,8 @@ export default new Router({
   routes: [
     {
       path: "/",
-      name: "HelloWorld",
-      component: () => import("@/components/HelloWorld.vue")
+      name: "/",
+      component: () => import("@/components/Index.vue")
     },
     {
       path: "/index",
